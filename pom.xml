@@ -29,5 +29,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
       <version>${junit.version}</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+    <groupId>com.github.lalyos</groupId>
+    <artifactId>jfiglet</artifactId>
+    <version>0.0.3</version>
+</dependency>
   </dependencies>
 </project>
